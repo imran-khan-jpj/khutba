@@ -1,0 +1,34 @@
+====Done Section====
+
+====Done Section====
+
+===on Working====
+
+===on Working====
+
+===pending====
+Admin
+	Crud khateeb
+	Change password
+	Login/logout
+
+Khateeb
+	Login/logout
+	Crud course, 
+	Course has two outlines. For muslims and non muslims
+	Add Lesson
+	Show all courses
+	Students in courses(course name, student name, student religion)
+	Khateeb change password own
+	Khateeb create MCQs and student take exam and then result will showing after the test.
+User 
+	Login/logout	
+	Display list of courses who has registered by user
+	List of  Courses that are not registered by user
+	Question Answer Portal Where user can create a question and Any Khateeb can reply back the answer
+Question has tags.
+	
+===pending====
+	
+	
+	
