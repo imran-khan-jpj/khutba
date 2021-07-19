@@ -246,10 +246,6 @@ const Login = () => {
                             </p>
                           )}
                         </div>
-                        <div class="d-flex text-center justify-content-between">
-                          <div class="form-check mb-3"></div>
-                          <Link to="/ds;a">Forgot Password</Link>
-                        </div>
                         <button type="submit" class="btn btn-primary w-100">
                           {loginLoading ? `Loading` : `Login`}
                         </button>
